@@ -143,9 +143,5 @@ namespace MYCALCULATOR
             textBox1.Clear();
         }
 
-        private void saweeraIjaz5894_Load(object sender, EventArgs e)
-        {
-
-        }
-    }
+     }
 }
